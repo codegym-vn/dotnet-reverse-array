@@ -1,0 +1,11 @@
+D:\CodeGym\Bai2\dotnet-reverse-array\bin\Debug\netcoreapp3.1\dotnet-reverse-array.exe
+D:\CodeGym\Bai2\dotnet-reverse-array\bin\Debug\netcoreapp3.1\dotnet-reverse-array.deps.json
+D:\CodeGym\Bai2\dotnet-reverse-array\bin\Debug\netcoreapp3.1\dotnet-reverse-array.runtimeconfig.json
+D:\CodeGym\Bai2\dotnet-reverse-array\bin\Debug\netcoreapp3.1\dotnet-reverse-array.runtimeconfig.dev.json
+D:\CodeGym\Bai2\dotnet-reverse-array\bin\Debug\netcoreapp3.1\dotnet-reverse-array.dll
+D:\CodeGym\Bai2\dotnet-reverse-array\bin\Debug\netcoreapp3.1\dotnet-reverse-array.pdb
+D:\CodeGym\Bai2\dotnet-reverse-array\obj\Debug\netcoreapp3.1\dotnet-reverse-array.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-reverse-array\obj\Debug\netcoreapp3.1\dotnet-reverse-array.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-reverse-array\obj\Debug\netcoreapp3.1\dotnet-reverse-array.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-reverse-array\obj\Debug\netcoreapp3.1\dotnet-reverse-array.dll
+D:\CodeGym\Bai2\dotnet-reverse-array\obj\Debug\netcoreapp3.1\dotnet-reverse-array.pdb
